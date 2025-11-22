@@ -14,5 +14,3 @@ About Me<br><br>Future mechatronics engineer interested in robotics, electronics
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adammotyl22-creator&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
